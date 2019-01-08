@@ -1,7 +1,7 @@
 {
-  "name": "fast-food-fast",
+  "name": "emr-demo",
   "version": "1.0.0",
-  "description": "Developer Coding Challenge",
+  "description": "this is an electronic management record system for hospitals",
   "main": "server.js",
   "scripts": {
     "test": "cross-env NODE_ENV=test nyc mocha",
